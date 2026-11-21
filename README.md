@@ -1,4 +1,4 @@
-
+**MOD "ACORNS" 2.0 — for Minecraft 1.21.1 (Fabric)**
 
     The giant acorn is now neat, exactly 8x8x8, round. Inside there's a hollow
     chamber with a chest (and a couple of rotten acorns...). Found in all forests.
